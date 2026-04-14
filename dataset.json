@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Detroit, Michigan, US",
+  "export_job_id": "59b5d9f6-a123-477f-8c97-c7addc3cbecc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 660603,
+  "location_name": "Detroit",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-detroit-michigan-us-sample-660603",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/660603/beamstation_660603_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 8.77,
+  "sample_records": 5,
+  "sample_sha256": "483d6199195f77d26e470e3cfd19bce0a171d8886e7ea39d5076dd7e3816e288",
+  "sample_size_bytes": 32735,
+  "total_records": 57,
+  "updated_at": "2026-04-07T15:57:42.282157+00:00"
+}
