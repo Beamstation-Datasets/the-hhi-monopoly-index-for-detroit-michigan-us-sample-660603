@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Detroit, Michigan, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `660603` |
 | Location | Detroit |
 | Category | Restaurants |
-| Full dataset size | 57 records |
-| Free sample size | 5 records (8.77%) |
-| Last export | 2026-04-07T15:57:42.282157+00:00 |
+| Full dataset size | 47 records |
+| Free sample size | 4 records (8.51%) |
+| Last export | 2026-04-14T22:19:00.813298+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-detroit-michigan-us-sample-660603/releases/download/sample-latest/beamstation_660603_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
