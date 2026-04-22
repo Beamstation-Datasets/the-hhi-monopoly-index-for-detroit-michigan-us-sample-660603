@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d89f5e8d-249f-4f16-a941-58c383837ceb",
+  "export_job_id": "2facb3c0-d7c0-4c8f-998b-4829ef688bec",
   "id_short": 660603,
-  "published_at": "2026-04-18T19:39:31Z",
+  "published_at": "2026-04-22T07:50:06Z",
   "repo_name": "the-hhi-monopoly-index-for-detroit-michigan-us-sample-660603",
   "sample_asset_name": "beamstation_660603_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/660603/beamstation_660603_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_records": 4,
-  "sample_sha256": "ba5f575c3ffc90b7a8e19706ab7751ecd933728f9367c4f4ff4750caffc4629e",
-  "sample_size_bytes": 31132,
-  "total_records": 47
+  "sample_sha256": "b2dd09f8ce0318de12229a345d4b2cd39a5025594cb3ddc6d5afadeae1d720b9",
+  "sample_size_bytes": 31121,
+  "total_records": 42
 }
